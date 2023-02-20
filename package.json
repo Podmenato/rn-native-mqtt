@@ -1,5 +1,5 @@
 {
-  "name": "react-native-native-mqtt",
+  "name": "@fdfedin/react-native-native-mqtt",
   "title": "React Native Native Mqtt",
   "version": "0.1.8",
   "description": "An MQTT client or React Native that actually works with a simple Javascript interface",
@@ -8,14 +8,15 @@
   "homepage": "https://github.com/davesters/rn-native-mqtt",
   "repository": {
     "type": "git",
-    "url": "https://github.com/davesters/rn-native-mqtt"
+    "url": "https://github.com/Podmenato/rn-native-mqtt"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0",
     "clean": "rimraf lib",
     "tsc": "tsc -p .",
     "build": "npm run clean && npm run tsc --",
-    "release": "standard-version"
+    "release": "standard-version",
+    "publish-npm": "npm publish"
   },
   "keywords": [
     "react-native",
