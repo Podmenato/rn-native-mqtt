@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 0.1.12 (2024-11-12)
+
+
+### Bug Fixes
+
+* update to latest env-keystore ([01a0cfc](https://github.com/Podmenato/rn-native-mqtt/commit/01a0cfc))
+
 ### [0.1.8](https://github.com/davesters/rn-native-mqtt/compare/v0.1.7...v0.1.8) (2020-06-26)
 
 ### [0.1.7](https://github.com/davesters/rn-native-mqtt/compare/v0.1.6...v0.1.7) (2020-06-04)
